@@ -6,7 +6,7 @@ struct
 class 
 extension
 ***
-# I create model
+ I create model
 *Struct and Class
 #add 3 class for View Controller
 *inside each Class I create  Model
