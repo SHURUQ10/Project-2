@@ -27,6 +27,6 @@ extension
 ## I create UserDefaults 
 
 # future Additions 
-add interfaces that are related to eash other in segua 
+add interfaces that are related to eash other in segue 
 add sort data
 add date and time and description 
