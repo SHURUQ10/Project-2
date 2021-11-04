@@ -30,6 +30,8 @@ can add
 can delete
 can update
 can save
+# Favorite function
+all part
 
 
 # future Additions 
