@@ -1,5 +1,6 @@
 # Project-2
-# I did model
+# overview : 
+# I create model
 *Struct and Class
 #add 3 class for View Controller
 *inside each Class I know Model
@@ -10,12 +11,12 @@
 #Use extension for Delegate
 #Use extension for datasourse
 #inside each Class EntryViewController
-*I did func save tasks 
+*I create func save tasks 
 
-*I did func textFieldShouldReturn
+*I create func textFieldShouldReturn
 
 #inside each Class EditTaskViewController
-*I did func updateButton
+*I create func updateButton
 
-## I did UserDefaults
+## I create UserDefaults
 
