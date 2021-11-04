@@ -1,12 +1,11 @@
 # Project-2
 # overview : with this program you can write your tasks and save it.
 
-# USE :
+# Usage :
 struct 
 class 
 extension
-
-# USE STORY :
+***
 # I create model
 *Struct and Class
 #add 3 class for View Controller
@@ -25,5 +24,9 @@ extension
 #inside each Class EditTaskViewController
 *I create func updateButton
 
-## I create UserDefaults
+## I create UserDefaults 
 
+# future Additions 
+add interfaces that are related to eash other in segua 
+add sort data
+add date and time and description 
